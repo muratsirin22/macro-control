@@ -21,12 +21,12 @@
   "DEQC-4WCG-EDNQ": {
     "phone": "-",
     "duration_days": 120,
-    "expire_at": null,
-    "activate_date": null,
+    "expire_at": "2026-07-24T23:29:37",
+    "activate_date": "2026-03-26T23:29:37",
     "created_date": "2026-03-27",
     "given_date": "2026-03-27",
-    "machine_id": null,
-    "last_seen": null,
+    "machine_id": "cfc2e08e993e4ac00071809fc29e839c",
+    "last_seen": "2026-03-26T23:29:37",
     "active": true
   }
 }
