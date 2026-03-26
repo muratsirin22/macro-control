@@ -5,7 +5,7 @@
     "created_date": "2026-03-26",
     "given_date": "2026-03-26",
     "machine_id": "cfc2e08e993e4ac00071809fc29e839c",
-    "last_seen": "2026-03-26T23:12:11",
+    "last_seen": "2026-03-26T23:11:49",
     "active": true,
     "expire_at": "2026-04-25T21:24:38"
   },
@@ -16,6 +16,17 @@
     "given_date": "2026-03-27",
     "machine_id": "cfc2e08e993e4ac00071809fc29e839c",
     "last_seen": "2026-03-26T22:41:14",
+    "active": true
+  },
+  "DEQC-4WCG-EDNQ": {
+    "phone": "-",
+    "duration_days": 30,
+    "expire_at": null,
+    "activate_date": null,
+    "created_date": "2026-03-27",
+    "given_date": "2026-03-27",
+    "machine_id": null,
+    "last_seen": null,
     "active": true
   }
 }
