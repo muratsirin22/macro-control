@@ -43,12 +43,12 @@
   "TS2J-243K-5VBJ": {
     "phone": "-",
     "duration_days": 1,
-    "expire_at": null,
-    "activate_date": null,
+    "expire_at": "2026-03-27T23:41:54",
+    "activate_date": "2026-03-26T23:41:54",
     "created_date": "2026-03-27",
     "given_date": "2026-03-27",
-    "machine_id": null,
-    "last_seen": null,
+    "machine_id": "cfc2e08e993e4ac00071809fc29e839c",
+    "last_seen": "2026-03-26T23:41:54",
     "active": true
   }
 }
