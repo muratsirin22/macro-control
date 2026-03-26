@@ -1,0 +1,11 @@
+{
+  "DEMO-TEST-1234": {
+    "phone": "05XX XXX XX XX",
+    "days_left": 30,
+    "created_date": "2026-03-26",
+    "given_date": "2026-03-26",
+    "machine_id": null,
+    "last_seen": null,
+    "active": true
+  }
+}
