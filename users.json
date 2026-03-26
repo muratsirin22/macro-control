@@ -8,5 +8,14 @@
     "last_seen": "2026-03-27T00:14:03",
     "active": true,
     "expire_at": "2026-04-25T21:24:38"
+  },
+  "VQ2E-1YHL-G7DG": {
+    "phone": "05386746048",
+    "expire_at": "2026-04-25T21:25:46",
+    "created_date": "2026-03-27",
+    "given_date": "2026-03-27",
+    "machine_id": null,
+    "last_seen": null,
+    "active": true
   }
 }
