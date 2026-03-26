@@ -20,7 +20,7 @@
   },
   "DEQC-4WCG-EDNQ": {
     "phone": "-",
-    "duration_days": 30,
+    "duration_days": 60,
     "expire_at": null,
     "activate_date": null,
     "created_date": "2026-03-27",
