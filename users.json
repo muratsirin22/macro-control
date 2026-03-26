@@ -32,12 +32,12 @@
   "2L7H-8NKM-T5RE": {
     "phone": "-",
     "duration_days": 365,
-    "expire_at": null,
-    "activate_date": null,
+    "expire_at": "2027-03-26T23:36:40",
+    "activate_date": "2026-03-26T23:36:40",
     "created_date": "2026-03-27",
     "given_date": "2026-03-27",
-    "machine_id": null,
-    "last_seen": null,
+    "machine_id": "cfc2e08e993e4ac00071809fc29e839c",
+    "last_seen": "2026-03-26T23:36:40",
     "active": true
   }
 }
