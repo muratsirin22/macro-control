@@ -52,5 +52,16 @@
     "machine_id": null,
     "last_seen": null,
     "active": true
+  },
+  "1X8O-SBSL-MDUP": {
+    "phone": "-",
+    "duration_days": 7,
+    "expire_at": null,
+    "activate_date": null,
+    "created_date": "2026-03-27",
+    "given_date": "2026-03-27",
+    "machine_id": null,
+    "last_seen": null,
+    "active": true
   }
 }
