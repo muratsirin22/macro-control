@@ -20,17 +20,6 @@
     "last_seen": "2026-03-26T23:29:37",
     "active": true
   },
-  "2L7H-8NKM-T5RE": {
-    "phone": "-",
-    "duration_days": 365,
-    "expire_at": "2027-04-25T23:36:40",
-    "activate_date": "2026-03-26T23:36:40",
-    "created_date": "2026-03-27",
-    "given_date": "2026-03-27",
-    "machine_id": "cfc2e08e993e4ac00071809fc29e839c",
-    "last_seen": "2026-03-26T23:36:40",
-    "active": false
-  },
   "TS2J-243K-5VBJ": {
     "phone": "-",
     "duration_days": 1,
