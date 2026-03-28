@@ -1,13 +1,14 @@
 {
   "DEMO-TEST-1234": {
     "phone": "05XX XXX XX XX",
-    "days_left": 29,
-    "created_date": "2026-03-26",
-    "given_date": "2026-03-26",
+    "duration_days": 300,
+    "expire_at": "2026-09-27T23:41:54",
+    "activate_date": "2026-03-26T23:41:54",
+    "created_date": "2026-03-27",
+    "given_date": "2026-03-27",
     "machine_id": "cfc2e08e993e4ac00071809fc29e839c",
-    "last_seen": "2026-03-26T23:28:14",
-    "active": true,
-    "expire_at": "2026-04-25T21:24:38"
+    "last_seen": "2026-03-27T00:00:13",
+    "active": true
   },
   "TS2J-243K-5VBJ": {
     "phone": "-",
