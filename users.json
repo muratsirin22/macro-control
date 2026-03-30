@@ -2,12 +2,12 @@
   "DEMO-TEST-1234": {
     "phone": "05XX XXX XX XX",
     "duration_days": 300,
-    "expire_at": null,
-    "activate_date": null,
+    "expire_at": "2027-01-24T23:31:21",
+    "activate_date": "2026-03-30T23:31:21",
     "created_date": null,
     "given_date": "2026-03-27",
-    "machine_id": null,
-    "last_seen": null,
+    "machine_id": "e3a45b2ccffea69db72af263b3909deb0ea8ed1c50322015",
+    "last_seen": "2026-03-30T23:31:21",
     "active": true
   },
   "UFUK-1234-1234": {
