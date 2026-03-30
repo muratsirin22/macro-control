@@ -7,7 +7,7 @@
     "created_date": "2026-03-27",
     "given_date": "2026-03-27",
     "machine_id": "0c8207d886bdf702764d530732c902a8f15ba27dafc380c9",
-    "last_seen": "2026-03-30T06:26:21",
+    "last_seen": "2026-03-30T06:25:28",
     "active": true
   },
   "6PAD-5JSD-DY2Z": {
@@ -30,6 +30,17 @@
     "given_date": "2026-03-27",
     "machine_id": "cfc2e08e993e4ac00071809fc29e839c",
     "last_seen": "2026-03-27T23:36:38",
+    "active": true
+  },
+  "AFYX-SHGJ-UCNJ": {
+    "phone": "-",
+    "duration_days": 30,
+    "expire_at": null,
+    "activate_date": null,
+    "created_date": "2026-03-30",
+    "given_date": "2026-03-30",
+    "machine_id": null,
+    "last_seen": null,
     "active": true
   }
 }
