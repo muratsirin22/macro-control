@@ -53,5 +53,16 @@
     "machine_id": null,
     "last_seen": null,
     "active": true
+  },
+  "4EG8-1JXP-JJSX": {
+    "phone": "-",
+    "duration_days": 7,
+    "expire_at": null,
+    "activate_date": null,
+    "created_date": "2026-03-30",
+    "given_date": "2026-03-30",
+    "machine_id": null,
+    "last_seen": null,
+    "active": true
   }
 }
