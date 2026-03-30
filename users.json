@@ -31,5 +31,16 @@
     "machine_id": "d19470753b084936f4e1b064a974e78bdaefc7351b7151b9",
     "last_seen": "2026-03-30T15:31:54",
     "active": true
+  },
+  "E5MK-Z4XB-P2ZR": {
+    "phone": "-",
+    "duration_days": 30,
+    "expire_at": null,
+    "activate_date": null,
+    "created_date": "2026-03-30",
+    "given_date": "2026-03-30",
+    "machine_id": null,
+    "last_seen": null,
+    "active": true
   }
 }
