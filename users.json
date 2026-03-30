@@ -64,5 +64,16 @@
     "machine_id": "5a06db87fbb66f6ee1ee679d5a3049427bff3734af2844ac",
     "last_seen": "2026-03-30T20:40:44",
     "active": true
+  },
+  "PWER-VIPH-1IX9": {
+    "phone": "-",
+    "duration_days": 7,
+    "expire_at": null,
+    "activate_date": null,
+    "created_date": "2026-03-30",
+    "given_date": "2026-03-30",
+    "machine_id": null,
+    "last_seen": null,
+    "active": true
   }
 }
