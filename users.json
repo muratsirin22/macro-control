@@ -35,12 +35,12 @@
   "UFUK-1234-1234": {
     "phone": "-",
     "duration_days": 30,
-    "expire_at": null,
-    "activate_date": null,
+    "expire_at": "2026-04-29T16:13:32",
+    "activate_date": "2026-03-30T16:13:32",
     "created_date": "2026-03-30",
     "given_date": "2026-03-30",
-    "machine_id": null,
-    "last_seen": null,
+    "machine_id": "bc97641c9e19f39a7c022884e1801fea86263c27993e461b",
+    "last_seen": "2026-03-30T16:13:32",
     "active": true
   }
 }
