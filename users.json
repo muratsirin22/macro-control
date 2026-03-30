@@ -2,7 +2,7 @@
   "DEMO-TEST-1234": {
     "phone": "05XX XXX XX XX",
     "duration_days": 300,
-    "expire_at": "2026-09-27T23:41:54",
+    "expire_at": null,
     "activate_date": "2026-03-26T23:41:54",
     "created_date": "2026-03-27",
     "given_date": "2026-03-27",
