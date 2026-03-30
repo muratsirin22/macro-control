@@ -10,17 +10,6 @@
     "last_seen": "2026-03-30T18:37:03",
     "active": true
   },
-  "1X8O-SBSL-MDUP": {
-    "phone": "-",
-    "duration_days": 7,
-    "expire_at": "2026-04-03T00:00:58",
-    "activate_date": "2026-03-27T00:00:58",
-    "created_date": "2026-03-27",
-    "given_date": "2026-03-27",
-    "machine_id": "cfc2e08e993e4ac00071809fc29e839c",
-    "last_seen": "2026-03-27T23:36:38",
-    "active": true
-  },
   "UFUK-1234-1234": {
     "phone": "-",
     "duration_days": 30,
