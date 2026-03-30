@@ -57,12 +57,12 @@
   "DRJK-786Z-25XR": {
     "phone": "-",
     "duration_days": 7,
-    "expire_at": null,
-    "activate_date": null,
+    "expire_at": "2026-04-06T20:32:46",
+    "activate_date": "2026-03-30T20:32:46",
     "created_date": "2026-03-30",
     "given_date": "2026-03-30",
-    "machine_id": null,
-    "last_seen": null,
+    "machine_id": "5a06db87fbb66f6ee1ee679d5a3049427bff3734af2844ac",
+    "last_seen": "2026-03-30T20:32:46",
     "active": true
   }
 }
