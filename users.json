@@ -47,11 +47,11 @@
     "phone": "-",
     "duration_days": 30,
     "expire_at": "2026-04-29T06:27:23",
-    "activate_date": "2026-03-30T06:27:23",
+    "activate_date": null,
     "created_date": "2026-03-30",
     "given_date": "2026-03-30",
     "machine_id": null,
-    "last_seen": "2026-03-30T06:30:05",
+    "last_seen": null,
     "active": true
   }
 }
