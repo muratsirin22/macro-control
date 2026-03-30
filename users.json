@@ -21,17 +21,6 @@
     "last_seen": "2026-03-27T23:36:38",
     "active": true
   },
-  "4EG8-1JXP-JJSX": {
-    "phone": "-",
-    "duration_days": 7,
-    "expire_at": "2026-04-06T15:31:54",
-    "activate_date": "2026-03-30T15:31:54",
-    "created_date": "2026-03-30",
-    "given_date": "2026-03-30",
-    "machine_id": "d19470753b084936f4e1b064a974e78bdaefc7351b7151b9",
-    "last_seen": "2026-03-30T15:31:54",
-    "active": true
-  },
   "UFUK-1234-1234": {
     "phone": "-",
     "duration_days": 30,
