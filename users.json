@@ -2,12 +2,12 @@
   "DEMO-TEST-1234": {
     "phone": "05XX XXX XX XX",
     "duration_days": 300,
-    "expire_at": null,
-    "activate_date": "2026-03-26T23:41:54",
+    "expire_at": "2027-01-24T06:25:28",
+    "activate_date": "2026-03-30T06:25:28",
     "created_date": "2026-03-27",
     "given_date": "2026-03-27",
-    "machine_id": null,
-    "last_seen": "2026-03-28T10:24:57",
+    "machine_id": "0c8207d886bdf702764d530732c902a8f15ba27dafc380c9",
+    "last_seen": "2026-03-30T06:25:28",
     "active": true
   },
   "6PAD-5JSD-DY2Z": {
