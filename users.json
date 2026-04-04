@@ -211,12 +211,12 @@
   "BH1Z-A2HJ-7DFD": {
     "phone": "-",
     "duration_days": 30,
-    "expire_at": null,
-    "activate_date": null,
+    "expire_at": "2026-05-04T11:05:24",
+    "activate_date": "2026-04-04T11:05:24",
     "created_date": "2026-04-04",
     "given_date": "2026-04-04",
-    "machine_id": null,
-    "last_seen": null,
+    "machine_id": "e3a45b2ccffea69db72af263b3909deb0ea8ed1c50322015",
+    "last_seen": "2026-04-04T11:05:24",
     "active": true
   }
 }
