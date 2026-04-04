@@ -207,5 +207,16 @@
     "machine_id": null,
     "last_seen": null,
     "active": true
+  },
+  "BH1Z-A2HJ-7DFD": {
+    "phone": "-",
+    "duration_days": 30,
+    "expire_at": null,
+    "activate_date": null,
+    "created_date": "2026-04-04",
+    "given_date": "2026-04-04",
+    "machine_id": null,
+    "last_seen": null,
+    "active": true
   }
 }
