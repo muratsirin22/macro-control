@@ -229,5 +229,16 @@
     "machine_id": null,
     "last_seen": null,
     "active": true
+  },
+  "MKX7-NHP5-CI7S": {
+    "phone": "-",
+    "duration_days": 1,
+    "expire_at": null,
+    "activate_date": null,
+    "created_date": "2026-04-05",
+    "given_date": "2026-04-05",
+    "machine_id": null,
+    "last_seen": null,
+    "active": true
   }
 }
