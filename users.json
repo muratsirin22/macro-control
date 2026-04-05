@@ -218,5 +218,16 @@
     "machine_id": "e3a45b2ccffea69db72af263b3909deb0ea8ed1c50322015",
     "last_seen": "2026-04-04T23:24:42",
     "active": true
+  },
+  "HAS7-M8K4-OSKS": {
+    "phone": "-",
+    "duration_days": 30,
+    "expire_at": null,
+    "activate_date": null,
+    "created_date": "2026-04-05",
+    "given_date": "2026-04-05",
+    "machine_id": null,
+    "last_seen": null,
+    "active": true
   }
 }
